@@ -2,7 +2,7 @@
 
 ## Installation 📱
 
-`SPickerList` supports Swift 5.0 since version `1.0`.
+`AnimatedSegmentView` supports iOS 14.0+ since version `1.0`.
 
 ### ScreenShoots
 
